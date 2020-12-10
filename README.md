@@ -1,4 +1,4 @@
-# iOS Projects Ngo bao ngoc
+# iOS Projects
 
 ![Screenshot](iOSApp.jpg)
 
